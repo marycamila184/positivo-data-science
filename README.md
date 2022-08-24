@@ -18,5 +18,10 @@ https://docs.google.com/presentation/d/1bsmQ5Ok29h25kxB-Xn5NSXOS1MYgaGF4uLQxj2ED
 Aula 03:
 https://docs.google.com/presentation/d/1_78OtJkUlz_F3erTHdu-_crF1a8SyND3JOcuDAr9RNw/edit?usp=sharing
 
-Link com os exemplos de notebook:
-https://drive.google.com/drive/folders/13qgh-prG-FMU53O4K1oW07lG3sY5f_GM?usp=sharing
+Aula 04:
+https://docs.google.com/presentation/d/1_78OtJkUlz_F3erTHdu-_crF1a8SyND3JOcuDAr9RNw/edit?usp=sharing
+Notebook: https://drive.google.com/open?id=1aBUzLc-e7ue7ZcwU81Okmm7pxygdnSdC
+https://drive.google.com/open?id=1oIHAEWq3Ow_9f36PHjEzmM_zfuQD8-sP
+
+Pasta com os datasets: 
+https://drive.google.com/drive/folders/1goMkzEALDQltw6A-E2DHQb9Tq6ARA2ox?usp=sharing
