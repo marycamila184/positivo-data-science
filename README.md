@@ -8,7 +8,8 @@
 
 * Todo o conteúdo disponibilizado aqui também está no portal!
 
-Apresentações das Aukas:
+Apresentações das Aulas:
+
 Aula 00: https://docs.google.com/presentation/d/1SLINsm0AhRXIt2DtC-TT_RW0lDb8lwPtJmW5iOFKJFI/edit?usp=sharing
 Aula 01: https://docs.google.com/presentation/d/1w1U0dCfyMTvppSSkR_204jYeXUUU1O9YSXjPziJBTqg/edit?usp=sharing
 Aula 02: https://docs.google.com/presentation/d/1bsmQ5Ok29h25kxB-Xn5NSXOS1MYgaGF4uLQxj2EDwtg/edit?usp=sharing
