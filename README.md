@@ -27,3 +27,6 @@ https://drive.google.com/drive/folders/13qgh-prG-FMU53O4K1oW07lG3sY5f_GM?usp=sha
 
 Pasta com os datasets: 
 https://drive.google.com/drive/folders/1goMkzEALDQltw6A-E2DHQb9Tq6ARA2ox?usp=sharing
+
+Material EXTRA: 
+https://drive.google.com/drive/folders/1M7OQZVsfGt9GSq-pf5dR4FAea5i8fmTf?usp=sharing
