@@ -26,6 +26,8 @@ Aula 06: https://docs.google.com/presentation/d/181JvoV-zX3SHAy5qxmkzSvLLwIiCGg5
 
 Aula 07: https://docs.google.com/presentation/d/1NCfVUVQNfsij_DnOVCE6Lx_WvF-QwK2Qiy2QZAG57fY/edit?usp=sharing
 
+Aula 08: https://docs.google.com/presentation/d/1UKXeB9a6Ru2ruKgjwhqbiuQeoGTlvoAkIip7CmkyIsM/edit?usp=sharing
+
 Material prático (Notebooks): 
 https://drive.google.com/drive/folders/13qgh-prG-FMU53O4K1oW07lG3sY5f_GM?usp=sharing
 
