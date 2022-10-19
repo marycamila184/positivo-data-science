@@ -28,6 +28,8 @@ Aula 07: https://docs.google.com/presentation/d/1NCfVUVQNfsij_DnOVCE6Lx_WvF-QwK2
 
 Aula 08: https://docs.google.com/presentation/d/1UKXeB9a6Ru2ruKgjwhqbiuQeoGTlvoAkIip7CmkyIsM/edit?usp=sharing
 
+Aula 09: https://docs.google.com/presentation/d/1Xu9CzayaikkstyLW31R_KVhT8mEKW-YXip6-g4zaIXY/edit?usp=sharing
+
 Material prático (Notebooks): 
 https://drive.google.com/drive/folders/13qgh-prG-FMU53O4K1oW07lG3sY5f_GM?usp=sharing
 
@@ -36,3 +38,6 @@ https://drive.google.com/drive/folders/1goMkzEALDQltw6A-E2DHQb9Tq6ARA2ox?usp=sha
 
 Material EXTRA: 
 https://drive.google.com/drive/folders/1M7OQZVsfGt9GSq-pf5dR4FAea5i8fmTf?usp=sharing
+
+Notas:
+https://drive.google.com/drive/folders/1EZu83iwFrPIaZjNFYgFKl7bRTN6Uqtwj
