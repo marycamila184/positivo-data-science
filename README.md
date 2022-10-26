@@ -30,6 +30,8 @@ Aula 08: https://docs.google.com/presentation/d/1UKXeB9a6Ru2ruKgjwhqbiuQeoGTlvoA
 
 Aula 09: https://docs.google.com/presentation/d/1Xu9CzayaikkstyLW31R_KVhT8mEKW-YXip6-g4zaIXY/edit?usp=sharing
 
+Aula 10: https://docs.google.com/presentation/d/1PviDQNosO77TY2-2ztmIMPLD7OageueDT28OEnS1g7Y/edit?usp=sharing
+
 Material prático (Notebooks): 
 https://drive.google.com/drive/folders/13qgh-prG-FMU53O4K1oW07lG3sY5f_GM?usp=sharing
 
