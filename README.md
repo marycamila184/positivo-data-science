@@ -36,6 +36,8 @@ Aula 11: https://docs.google.com/presentation/d/1gUMgTbG7jEyrhzUxLu7WZuWFk8xIdd7
 
 Aula 12: https://docs.google.com/presentation/d/1-ZEfanZsZRS8lFHJyUUHYhkaeJk5SzdEBLxbFuwkp78/edit?usp=sharing
 
+Aula 13: https://docs.google.com/presentation/d/14lL8m7y3bHHx_7Ekk2tUEaVOF26bao8cvN3U7isN7_Q/edit?usp=share_link
+
 Material prático (Notebooks): 
 https://drive.google.com/drive/folders/13qgh-prG-FMU53O4K1oW07lG3sY5f_GM?usp=sharing
 
